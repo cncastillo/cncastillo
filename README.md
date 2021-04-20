@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/carlos_cp92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="carlos_cp92" height="30" width="40" /></a>
+<a href="https://twitter.com/carlos_cp92" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="carlos_cp92" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
