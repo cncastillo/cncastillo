@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Carlos Castillo</h1>
 <h3 align="center">A passionate MR physicist from Chile.</h3>
 
