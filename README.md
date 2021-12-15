@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **cncastillo@uc.cl**
 
-- ⚡ Fun fact **I was the national champion of [Rubik´s cube speed solving in 2009](https://www.worldcubeassociation.org/persons/2009CAST03).**
+- ⚡ Fun fact **I was the national champion of [Rubiks cube speed solving in 2009](https://www.worldcubeassociation.org/persons/2009CAST03).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
