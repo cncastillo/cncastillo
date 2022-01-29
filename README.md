@@ -3,15 +3,10 @@
 
 - 🔭 I’m currently working on [MRIsim.jl](https://github.com/cncastillo/MRIsim.jl)
 
-- 📫 How to reach me **cncastillo@uc.cl**
+- 📫 How to reach me **cncastillo@uc.cl**, or <a href="https://twitter.com/carlos_cp92" target="blank">🐦</a>.
 
 - ⚡ Fun fact **I was the national champion of [Rubiks cube speed solving in 2009](https://www.worldcubeassociation.org/persons/2009CAST03).**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/carlos_cp92" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="carlos_cp92" height="30" width="30" /></a>
-</p>
-
+- 
 <details>
 <summary> <samp>&#9776; Details</samp></summary>
 
