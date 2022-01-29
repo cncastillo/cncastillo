@@ -12,7 +12,7 @@
 <a href="https://twitter.com/carlos_cp92" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="carlos_cp92" height="30" width="30" /></a>
 </p>
 
-<details align="center">
+<details>
 <summary> <samp>&#9776; Details</samp></summary>
 
 <h3 align="left">Languages and Tools:</h3>
