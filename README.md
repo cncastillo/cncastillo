@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Castillo</h1>
 <h3 align="center">A passionate MR physicist from Chile.</h3>
 
-- 🔭 I’m currently working on [MRIsim.jl](https://github.com/cncastillo/MRIsim.jl)
+- 🔭 I’m currently working on [Koma.jl](https://github.com/cncastillo/Koma.jl)
 
 - 📫 How to reach me: **cncastillo@uc.cl**, or <a href="https://twitter.com/carlos_cp92" target="blank">🐦@carlos_cp92</a>.
 
