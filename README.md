@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **cncastillo@uc.cl**, or <a href="https://twitter.com/carlos_cp92" target="blank">🐦@carlos_cp92</a>.
 
-- ⚡ Fun fact **I was the national champion of [Rubiks cube speed solving in 2009](https://www.worldcubeassociation.org/persons/2009CAST03).**
+- ⚡ Fun fact **I had the Chilean national record in [3x3 Rubiks cube speed solving in 2009](https://www.worldcubeassociation.org/persons/2009CAST03).**
 
 <details>
 <summary> <samp>&#9776; Details</samp></summary>
