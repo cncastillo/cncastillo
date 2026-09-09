@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Castillo</h1>
 <h3 align="center">A passionate MR physicist from Chile.</h3>
 
-- 🔭 I’m currently working on [KomaMRI.jl](https://github.com/cncastillo/KomaMRI.jl)
+- 🔭 I’m currently working on [KomaMRI.jl](https://github.com/cncastillo/KomaMRI.jl).
   
-- 📰 Check out my [blog (Bloch Hole)](https://cncastillo.github.io/BlochHole/)
+- 📰 Check out my [blog (Bloch Hole)](https://cncastillo.github.io/BlochHole/) and [personal website](https://cncastillo.github.io/).
 
 - ⚡ Fun fact **I had the Chilean national record in [3x3 Rubiks cube speed solving in 2009](https://www.worldcubeassociation.org/persons/2009CAST03).**
 
